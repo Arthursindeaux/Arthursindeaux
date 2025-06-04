@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Olá Rede 👋</h1>
 
-<!--
-**Arthursindeaux/Arthursindeaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Arthur Sindeaux</strong><br/>
+  Estudante do 1º período de Ciência da Computação<br/>
+  <Interesse na área de dados<br/>
+  Python • Pandas • NumPy
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthursindeaux-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthursindeaux/?locale=en_US)
