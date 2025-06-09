@@ -6,6 +6,7 @@
   📊 Interesse na área de dados<br/>
   🧑‍💻 Python • Pandas • NumPy • Matplotlib<br/>
   🧑‍💻 Javascript
+  🌐 HTML/CSS
 </p>
 
 ---
