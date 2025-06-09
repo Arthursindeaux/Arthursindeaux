@@ -5,7 +5,7 @@
   📖 Estudante do 1º período de Ciência da Computação<br/>
   📊 Interesse na área de dados<br/>
   🧑‍💻 Python • Pandas • NumPy • Matplotlib<br/>
-  🧑‍💻 Javascript
+  🧑‍💻 Javascript<br/>
   🌐 HTML/CSS
 </p>
 
