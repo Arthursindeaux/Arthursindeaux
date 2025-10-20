@@ -2,7 +2,7 @@
 
 <p >
   👋 <strong>Arthur Sindeaux</strong><br/>
-  📖 Estudante do 1º período de Ciência da Computação<br/>
+  📖 Estudante do 2º período de Ciência da Computação<br/>
   📊 Interesse na área de dados<br/>
   🧑‍💻 Python • Pandas • NumPy • Matplotlib• yfinance<br/>
   🧑‍💻 Javascript<br/>
