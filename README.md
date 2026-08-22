@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Sindeaux 👨‍💻</h1>
 
 <p align="center">
-Estudante de Ciência da Computação (3º período - Cesar School)<br/>
+Estudante de Ciência da Computação (4º período - Cesar School)<br/>
 Foco em <strong>Análise de Dados</strong> 📊
 </p>
 
